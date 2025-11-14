@@ -2,7 +2,7 @@
 
 AyurMart is an online platform designed to provide users with a seamless experience for discovering, browsing, and purchasing Ayurvedic products. Built with a clean UI and intuitive navigation, AyurMart focuses on bringing the essence of traditional Ayurveda into the modern digital space.
 
-🔗 **Live Website:** [AyurMart](https://ayurmartt.netlify.app)
+🔗 **Live Website:** [AyurMart](https://ayurmarttt.netlify.app)
 
 ---
 
@@ -44,7 +44,7 @@ AyurMart is an online platform designed to provide users with a seamless experie
 ## 🌐 Deployment
 
 AyurMart is deployed on **Netlify**.
-You can visit the live site here: **[https://ayurmartt.netlify.app](https://ayurmartt.netlify.app)**
+You can visit the live site here: **[https://ayurmartyt.netlify.app](https://ayurmarttt.netlify.app)**
 
 ---
 

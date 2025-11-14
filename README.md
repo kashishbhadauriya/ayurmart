@@ -1,1 +1,2 @@
 # ayurmart
+ayurmartt.netlify.app
